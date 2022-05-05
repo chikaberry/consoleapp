@@ -1,0 +1,16 @@
+/Users/chikaberry/Projects/demo-2022/Demo/bin/Debug/net5.0/Demo
+/Users/chikaberry/Projects/demo-2022/Demo/bin/Debug/net5.0/Demo.deps.json
+/Users/chikaberry/Projects/demo-2022/Demo/bin/Debug/net5.0/Demo.runtimeconfig.json
+/Users/chikaberry/Projects/demo-2022/Demo/bin/Debug/net5.0/Demo.runtimeconfig.dev.json
+/Users/chikaberry/Projects/demo-2022/Demo/bin/Debug/net5.0/Demo.dll
+/Users/chikaberry/Projects/demo-2022/Demo/bin/Debug/net5.0/Demo.pdb
+/Users/chikaberry/Projects/demo-2022/Demo/obj/Debug/net5.0/Demo.csproj.AssemblyReference.cache
+/Users/chikaberry/Projects/demo-2022/Demo/obj/Debug/net5.0/Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chikaberry/Projects/demo-2022/Demo/obj/Debug/net5.0/Demo.AssemblyInfoInputs.cache
+/Users/chikaberry/Projects/demo-2022/Demo/obj/Debug/net5.0/Demo.AssemblyInfo.cs
+/Users/chikaberry/Projects/demo-2022/Demo/obj/Debug/net5.0/Demo.csproj.CoreCompileInputs.cache
+/Users/chikaberry/Projects/demo-2022/Demo/obj/Debug/net5.0/Demo.dll
+/Users/chikaberry/Projects/demo-2022/Demo/obj/Debug/net5.0/refint/Demo.dll
+/Users/chikaberry/Projects/demo-2022/Demo/obj/Debug/net5.0/Demo.pdb
+/Users/chikaberry/Projects/demo-2022/Demo/obj/Debug/net5.0/Demo.genruntimeconfig.cache
+/Users/chikaberry/Projects/demo-2022/Demo/obj/Debug/net5.0/ref/Demo.dll
